@@ -1,2 +1,2 @@
 # LendingClub
-Analysis on Lending Club data
+Analysis of Lending Club data
